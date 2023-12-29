@@ -1,4 +1,6 @@
-## Fluid Simulation WebGL Application
+## When the Clouds Part
+### Fluid Simulation WebGL Application - Transient Labs
+<img width="681" alt="when the clouds part" src="https://github.com/0xambr0sia/whenthecloudspart/assets/147129231/22cf18cd-08d7-46c2-91c9-c1242f7cd415">
 
 This is a WebGL-based fluid simulation application that utilizes GPU acceleration for real-time fluid dynamics. The simulation allows users to interact with the fluid using mouse or touch input, creating colorful and dynamic visualizations.
 
